@@ -1,0 +1,4 @@
+[build]
+  base = "four-card-feature-sections"
+  publish = "."
+  command = ""
