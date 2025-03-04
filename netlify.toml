@@ -1,4 +1,0 @@
-[build]
-  base = "four-card-feature-section"
-  publish = "."
-  command = ""
