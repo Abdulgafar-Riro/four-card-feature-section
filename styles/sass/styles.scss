@@ -37,17 +37,18 @@ body {
 
 .header-section {
   margin: 3rem 0;
-width: 33ch;
-font-weight: 700;
+  width: 33ch;
 }
 
 .gray-header {
   color: $grey400;
   font-weight: 400;
+  font-size: 16px;
 }
 
 .bold-header {
   margin: 0.5rem 0;
+  font-size: 16px;
 }
 
 .about-us-header {
