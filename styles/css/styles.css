@@ -6,7 +6,7 @@
 body {
   font-size: 15px;
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 700;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -18,35 +18,43 @@ body {
   background-color: hsl(0, 0%, 100%);
   padding: 1rem 2rem;
   line-height: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .header-section {
-  margin: 3rem 0;
+  width: 21.5rem;
+  margin: 2rem 0;
 }
 
 .gray-header {
   color: hsl(212, 6%, 44%);
   font-weight: 400;
+  font-size: 29px;
 }
 
 .bold-header {
-  margin: 0.5rem 0;
+  margin: 1rem 0 2rem 0;
+  font-size: 29px;
 }
 
 .about-us-header {
   color: hsl(234, 12%, 34%);
   margin: 1rem 0;
-  font-size: 16px;
+  font-size: 18.5px;
   font-weight: 500;
-  width: 33ch;
+  text-align: center;
 }
 
 .card {
   border: none;
-  border-radius: 0.5rem;
-  box-shadow: 3px 5px 5px hsl(212, 6%, 44%);
+  border-radius: 0.4rem;
+  box-shadow: 5px 5px 15px hsl(212, 6%, 44%);
   margin: 2rem 0;
-  padding: 2rem 1.5rem;
+  padding: 2.5rem;
+  width: 16.5rem;
   height: 12rem;
   position: relative;
 }
@@ -65,7 +73,7 @@ body {
 .card p {
   width: 30ch;
   font-weight: 200;
-  font-size: 12px;
+  font-size: 16px;
   color: hsl(212, 6%, 44%);
   margin: 0.5rem 0;
 }
@@ -91,6 +99,25 @@ body {
     justify-content: center;
     align-items: center;
     column-gap: 2rem;
+  }
+  .header-section {
+    width: 37rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .gray-header {
+    font-size: 46px;
+    margin: 1rem 0;
+  }
+  .bold-header {
+    font-size: 45px;
+  }
+  .about-us-header {
+    font-size: 18.5px;
+  }
+  .card {
+    width: 19rem;
   }
   .card p {
     width: 35ch;
