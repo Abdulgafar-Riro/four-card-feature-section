@@ -122,6 +122,11 @@ body {
   .card p {
     width: 35ch;
   }
+
+  .header -section {
+    width: 200px;
+    font-size: 18px;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [GitHub Repository](https://github.com/yourusername/four-card-feature)  
-- **Live Site URL:** [Live Demo](https://your-live-site.netlify.app/)  
+- **Solution URL:** [GitHub Repository](https://https://github.com/Abdulgafar-Riro/four-card-feature-section/)  
+- **Live Site URL:** [Live Demo](https://webmujahid-four-card-feature-section.netlify.app/)  
 
 ## My Process
 
